@@ -26,11 +26,4 @@ WRITE A REACT APPLICATION FOR A COUNTER APPLICATION USING useState().
 10. Your name and registration code must be below the segement
 
 
-How to submit
-1. After completing the code,Entire code should be pushed in to your github
-
-2. Record your output and save to .mp4 and then convert to gif from any online tools.
-
-3. Place the gif in your readme.md file.
-
-4. Paste the github link of your repo in Wise app (assignment page)![scrnli_1_31_2023_1-39-42 AM](https://user-images.githubusercontent.com/84958102/215585815-1fa51efb-746b-444c-bb29-0f5f35c5879e.gif)
+![scrnli_1_31_2023_1-39-42 AM](https://user-images.githubusercontent.com/84958102/215585815-1fa51efb-746b-444c-bb29-0f5f35c5879e.gif)
